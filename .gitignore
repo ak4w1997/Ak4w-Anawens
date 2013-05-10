@@ -181,6 +181,22 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
+eclipse/
+conf/
+docs/
+jars/
+logs/
+reobf/
+runtime/
+forge/
+*.txt
+*.bat
+*.sh
+CHANGELOG
+temp/
+lib/
+jars/
+
 
 
 #############
