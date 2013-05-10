@@ -192,9 +192,9 @@ forge/
 *.bat
 *.sh
 CHANGELOG
-temp/
 lib/
 jars/
+temp/
 
 
 
